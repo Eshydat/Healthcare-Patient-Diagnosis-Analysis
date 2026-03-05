@@ -34,4 +34,4 @@ Visualization: * Seaborn: Heatmaps with annot=True for density analysis.
 
 Matplotlib: Line and Bar charts with manual data annotations for high readability.
 
-![image alt(https://github.com/Eshydat/Healthcare-Patient-Diagnosis-Analysis/blob/8a0326870f2878e2bdc4109f3c9988a0b0145aad/Code_Generated_Image.png)
+![image alt](https://github.com/Eshydat/Healthcare-Patient-Diagnosis-Analysis/blob/8a0326870f2878e2bdc4109f3c9988a0b0145aad/Code_Generated_Image.png)
