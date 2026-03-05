@@ -1,8 +1,8 @@
-#Healthcare Patient Admissions & Outcomes Analysis
-#Project Overview
+# Healthcare Patient Admissions & Outcomes Analysis
+# Project Overview
 This repository contains a comprehensive data analysis of healthcare delivery, focusing on patient demographics, disease prevalence, and hospital operational efficiency. The project transforms raw medical records into actionable clinical insights using Python.
 
-🔍 #Analytical Deep-Dive (11 Key Questions)
+🔍 # Analytical Deep-Dive (11 Key Questions)
 Total Patient Volume: Analyzed the dataset scale to establish a baseline for all clinical metrics.
 
 Disease Prevalence: Identified the Top 3 Diseases (e.g., Malaria, Typhoid) to assist in resource and medication prioritization.
